@@ -1,0 +1,27 @@
+
+	.h{
+	color: #3B5998;
+	text-align: center;
+	margin: 0px;
+	padding:0px;
+	border:0px;
+}
+.navbar{
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+}
+
+.one{
+	margin: 0px;
+	padding: 0px;
+	border:0px;
+}
+
+.col-md-6{
+	border:0px;
+}
+
+.p{
+	padding-right: 6px;
+}
